@@ -4,4 +4,5 @@ feat: commit 3
 rel1&2: commit 1
 feat: urgent before 3&4 commit 1
 feat: urgent before 3&4 commit 2 (feat2.5)
+rel_urgent_b4_3&4: urgent commit 1
 feat3: commit 1
