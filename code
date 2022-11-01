@@ -8,6 +8,8 @@ rel_urgent_b4_3&4: urgent commit 1
 feat3: commit 1
 feat5: commit 1
 rel_feat5: commit 1
+featU: commit 1
+featU: commit 2
 feat a: commit 1
 feat b: commit 2
 featB: coomit 1
